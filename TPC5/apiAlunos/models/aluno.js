@@ -13,7 +13,7 @@ var alunoSchema = new mongoose.Schema({
     tpc7 : Boolean,
     tpc8 : Boolean,
     teste : Number,
-    pretica : Number
+    pratica : Number
 }, {versionKey : false})
 
 module.exports = mongoose.model('aluno', alunoSchema)

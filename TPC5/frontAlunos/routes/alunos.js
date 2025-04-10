@@ -45,7 +45,8 @@ router.get('/edit/:id', function(req, res, next) {
 // Save new student
 router.post('/registo', function(req, res, next) {
   axios.post(API_URL, req.body)
-    .then(() => {
+    .then((resp) => {
+      console.log(resp.data)
       res.redirect('/alunos');
     })
     .catch(error => {
@@ -56,7 +57,8 @@ router.post('/registo', function(req, res, next) {
 // Update student
 router.post('/edit/:id', function(req, res, next) {
   axios.put(`${API_URL}/${req.params.id}`, req.body)
-    .then(() => {
+    .then((resp) => {
+      console.log(resp.data)
       res.redirect('/alunos');
     })
     .catch(error => {

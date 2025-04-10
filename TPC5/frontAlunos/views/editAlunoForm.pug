@@ -16,42 +16,28 @@ block content
         label GitHub
         input.w3-input.w3-border(type="text" name="git" required value=aluno.git)
       
-      .w3-margin-top
-        label.w3-margin-right.w3-margin-bottom TPCs:
-        .w3-row.w3-margin-top
-          .w3-col.s3
-            label TPC1
-            input.w3-check(type="checkbox" name="tpc1" checked=aluno.tpc1)
-          .w3-col.s3
-            label TPC2
-            input.w3-check(type="checkbox" name="tpc2" checked=aluno.tpc2)
-          .w3-col.s3
-            label TPC3
-            input.w3-check(type="checkbox" name="tpc3" checked=aluno.tpc3)
-          .w3-col.s3
-            label TPC4
-            input.w3-check(type="checkbox" name="tpc4" checked=aluno.tpc4)
-        .w3-row.w3-margin-bottom
-          .w3-col.s3
-            label TPC5
-            input.w3-check(type="checkbox" name="tpc5" checked=aluno.tpc5)
-          .w3-col.s3
-            label TPC6
-            input.w3-check(type="checkbox" name="tpc6" checked=aluno.tpc6)
-          .w3-col.s3
-            label TPC7
-            input.w3-check(type="checkbox" name="tpc7" checked=aluno.tpc7)
-          .w3-col.s3
-            label TPC8
-            input.w3-check(type="checkbox" name="tpc8" checked=aluno.tpc8)
       
+      
+      fieldset
+                legend TPC
+                each i in [1, 2, 3, 4, 5, 6, 7, 8]
+                    - var tpc = "tpc" + i
+                    
+                    if tpc in aluno && aluno[tpc]
+                        input.w3-check(type="checkbox", name=`tpc${i}`, value="1", checked)
+                        label TPC#{i}
+                    else
+                        input.w3-check(type="checkbox", name=`tpc${i}`, value="1")
+                        label TPC#{i}
+
+
       .w3-margin-top
         label Nota do Teste
         input.w3-input.w3-border(type="number" name="teste" min="0" max="20" step="0.1" value=aluno.teste)
       
       .w3-margin-top
         label Nota da Prática
-        input.w3-input.w3-border(type="number" name="pretica" min="0" max="20" step="0.1" value=aluno.pretica)
+        input.w3-input.w3-border(type="number" name="pratica" min="0" max="20" step="0.1" value=aluno.pratica)
       
       .w3-margin-top.w3-margin-bottom
         button.w3-btn.w3-blue.w3-margin-right(type="submit") Guardar

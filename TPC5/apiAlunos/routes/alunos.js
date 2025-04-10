@@ -25,6 +25,11 @@ router.post('/', function(req, res, next) {
 
 /* PUT aluno by id */
 router.put('/:id', function(req, res, next) {
+    for (let i = 1; i <= 8; i++) {
+      if (!req.body[`tpc${i}`]) {
+        req.body[`tpc${i}`] = "0";  // Set missing checkboxes to "0"
+      }
+    }
     Aluno.update(req.params.id, req.body)
         .then(data => res.jsonp(data))
         .catch(erro => res.jsonp(erro))

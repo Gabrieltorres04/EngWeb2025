@@ -17,8 +17,9 @@ module.exports.insert = aluno => {
 }
 
 module.exports.update = (id, aluno) => {
+    
     return Aluno.
-        findById(id, aluno, {new : true}).exec()
+        findByIdAndUpdate(id, aluno, {new : true}).exec()
 }
 
 module.exports.delete = (id) => {
