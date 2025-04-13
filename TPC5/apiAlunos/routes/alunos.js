@@ -18,6 +18,7 @@ router.get('/:id', function(req, res, next) {
 
 /* POST alunos*/
 router.post('/', function(req, res, next) {
+    console.log(req.body);
     Aluno.insert(req.body)
         .then(data => res.jsonp(data))
         .catch(erro => res.jsonp(erro))

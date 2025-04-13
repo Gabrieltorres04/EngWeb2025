@@ -11,7 +11,7 @@ module.exports.findById = id => {
 module.exports.insert = aluno => {
     if(Aluno.find({_id : aluno.id}).exec().lenght != 1 ) {
         var newAluno = new Aluno(aluno)
-        newAluno._id = aluno.id
+        newAluno._id = aluno._id
         return newAluno.save()
     }
 }
