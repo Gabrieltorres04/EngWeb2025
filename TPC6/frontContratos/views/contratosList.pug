@@ -1,0 +1,35 @@
+
+extends layout
+
+block content
+  .w3-container
+    h1= title
+    p Meta-informação: Lista de Contratos Públicos
+
+    if lcontratos && lcontratos.length > 0
+      table.w3-table-all.w3-hoverable
+        thead
+          tr.w3-light-grey
+            th ID Contrato
+            th Objecto
+            th Data Celebração
+            th Preço Contratual (€)
+            th NIPC Entidade
+            th Entidade Comunicante
+        tbody
+          each contrato in lcontratos
+            tr
+              td
+                a(href=`/${contrato.idcontrato}`)= contrato.idcontrato
+              td= contrato.objectoContrato
+              td= contrato.dataCelebracaoContrato
+              td= parseFloat(contrato.precoContratual).toFixed(2)
+              td
+                a(href=`/entidades/${contrato.NIPC_entidade_comunicante}`)= contrato.NIPC_entidade_comunicante
+              td= contrato.entidade_comunicante
+    else
+      p Não foram encontrados contratos.
+
+    
+    footer.w3-container.w3-padding-16.w3-light-grey.w3-center
+      p Gerado por EngWeb2025 TPC6
