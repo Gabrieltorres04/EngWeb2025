@@ -6,9 +6,9 @@ var axios = require('axios');
 const API_URL = 'http://localhost:16000' ;
 /* List all contracts. */
 router.get('/', function(req, res, next) {
-  axios.get(API_URL)
+  axios.get(API_URL + '/contratos')
     .then(response => {
-      res.render('contratosList', {lcontratos: response.data} )
+      res.render('contratosList', {lcontratos: response.data, title: 'Lista de Contratos'} )
     })
     .catch(error => {
       res.render('error', {error: error})

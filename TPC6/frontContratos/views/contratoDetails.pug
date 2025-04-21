@@ -1,0 +1,45 @@
+extends layout
+
+block content
+  .w3-container
+    h1= title
+
+    if contrato
+      h3 Detalhes do Contrato
+      ul.w3-ul.w3-card-4
+        li
+          strong ID Contrato:
+          span= contrato._id
+        li
+          strong NIPC Entidade Comunicante:
+          span= contrato.NIPC_entidade_comunicante
+        li
+          strong Entidade Comunicante:
+          span= contrato.entidade_comunicante
+        li
+          strong Tipo Procedimento:
+          span= contrato.tipoprocedimento
+        li
+          strong Objecto Contrato:
+          span= contrato.objectoContrato
+        li
+          strong Data Publicação:
+          span= contrato.dataPublicacao
+        li
+          strong Data Celebração Contrato:
+          span= contrato.dataCelebracaoContrato
+        li
+          strong Preço Contratual:
+          span= parseFloat(contrato.precoContratual).toFixed(2) + " €"
+        li
+          strong Prazo Execução:
+          span= contrato.prazoExecucao + " dias"
+        li
+          strong Fundamentação:
+          span= contrato.fundamentacao
+   
+    else
+      p Detalhes do contrato não encontrados.
+
+    p
+      a.w3-button.w3-blue(href='/') Voltar à Lista Principal
