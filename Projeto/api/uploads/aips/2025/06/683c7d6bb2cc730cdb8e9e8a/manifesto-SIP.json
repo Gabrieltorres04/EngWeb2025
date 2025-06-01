@@ -1,0 +1,24 @@
+{
+  "titulo": "dsadsa",
+  "descricao": "dsada",
+  "dataCriacao": "2025-06-01T16:18:51.715Z",
+  "dataSubmissao": "2025-06-01T16:18:51.715Z",
+  "tipoRecurso": "Viagens",
+  "classificadores": [
+    "ola"
+  ],
+  "visibilidade": false,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "",
+    "ficheiros": []
+  },
+  "destino": "",
+  "duracaoDias": 0,
+  "restaurante": "",
+  "prato": "",
+  "categoria": "",
+  "evento": "",
+  "local": ""
+}

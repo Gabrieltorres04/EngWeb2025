@@ -1,0 +1,24 @@
+{
+  "titulo": "das",
+  "descricao": "sfa",
+  "dataCriacao": "2025-06-01T16:11:23.871Z",
+  "dataSubmissao": "2025-06-01T16:11:23.872Z",
+  "tipoRecurso": "Viagens",
+  "classificadores": [
+    ""
+  ],
+  "visibilidade": false,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "",
+    "ficheiros": []
+  },
+  "destino": "Lisboa",
+  "duracaoDias": 3,
+  "restaurante": "",
+  "prato": "",
+  "categoria": "",
+  "evento": "",
+  "local": ""
+}

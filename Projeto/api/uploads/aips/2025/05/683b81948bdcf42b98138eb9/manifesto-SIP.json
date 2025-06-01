@@ -1,0 +1,36 @@
+{
+  "titulo": "Primeiro Item",
+  "descricao": "dsa",
+  "dataCriacao": "2025-05-31T22:24:20.736Z",
+  "dataSubmissao": "2025-05-31T22:24:20.736Z",
+  "tipoRecurso": "Viagens",
+  "classificadores": [
+    "lisboa",
+    "cidades",
+    "visitar",
+    "visita de estudo"
+  ],
+  "visibilidade": true,
+  "produtor": "683b81708bdcf42b98138eb5",
+  "submissor": "683b81708bdcf42b98138eb5",
+  "componentes": {
+    "texto": "foi muito porreiro",
+    "ficheiros": [
+      "bugs-bunny.jpg",
+      "coyotte.png",
+      "duffy-duck.png",
+      "elmer-fudd.png",
+      "porky-pig.jpg",
+      "road-runner.png",
+      "speedy.png",
+      "sylvester.png"
+    ]
+  },
+  "destino": "Lisboa",
+  "duracaoDias": 4,
+  "restaurante": "",
+  "prato": "",
+  "categoria": "",
+  "evento": "",
+  "local": ""
+}

@@ -1,0 +1,27 @@
+{
+  "titulo": "Primeiro Item",
+  "descricao": "desc primeiro",
+  "dataCriacao": "2025-05-29T21:27:35.739Z",
+  "dataSubmissao": "2025-05-29T21:27:35.739Z",
+  "tipoRecurso": "Viagens",
+  "classificadores": [
+    "sporting"
+  ],
+  "visibilidade": true,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "",
+    "fotos": [],
+    "ficheiros": [],
+    "checklist": [],
+    "hyperlinks": []
+  },
+  "destino": "sporting",
+  "duracaoDias": 2,
+  "restaurante": "",
+  "prato": "",
+  "categoria": "",
+  "evento": "",
+  "local": ""
+}

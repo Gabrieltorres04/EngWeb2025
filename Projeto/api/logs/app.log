@@ -1,0 +1,71 @@
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:13:46.909Z","userId":"683cb5bae36d1ebfd7cfe299"}
+{"itemId":"683cc1c2a379d05eafedcc7f","level":"info","message":"Visualização de item","timestamp":"2025-06-01T22:14:02.898Z"}
+{"itemId":"683cc1c2a379d05eafedcc7f","level":"info","message":"DIP gerado e enviado","timestamp":"2025-06-01T22:14:13.040Z"}
+{"itemId":"683cc1c2a379d05eafedcc7f","level":"info","message":"Download de DIP","timestamp":"2025-06-01T22:14:13.050Z"}
+{"commentId":"683cd0c77a59ef28258bd904","itemId":"683cc1c2a379d05eafedcc7f","level":"info","message":"Comentário criado","timestamp":"2025-06-01T22:14:31.202Z"}
+{"commentId":"683cd0c77a59ef28258bd904","itemId":"683cc1c2a379d05eafedcc7f","level":"info","message":"Comentário criado","timestamp":"2025-06-01T22:14:31.203Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:14:33.184Z","userId":"683cb5bae36d1ebfd7cfe299"}
+{"itemId":"683cc1c2a379d05eafedcc7f","level":"info","message":"Visualização de item","timestamp":"2025-06-01T22:14:36.521Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:14:43.923Z","userId":"683cb5bae36d1ebfd7cfe299"}
+{"aipPath":"aips/2025/06/683cc1c2a379d05eafedcc7f","itemId":"683cc1c2a379d05eafedcc7f","level":"info","message":"Diretoria do AIP removida","timestamp":"2025-06-01T22:14:52.016Z"}
+{"itemId":"683cc1c2a379d05eafedcc7f","level":"info","message":"Item apagado","timestamp":"2025-06-01T22:14:52.017Z"}
+{"itemId":"683cc1c2a379d05eafedcc7f","level":"info","message":"Item apagado","timestamp":"2025-06-01T22:14:52.017Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:14:52.357Z","userId":"683cb5bae36d1ebfd7cfe299"}
+{"info":"Password ou username incorreto.","level":"warn","message":"Falha de autenticação","timestamp":"2025-06-01T22:17:38.705Z","username":"public"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:19:02.224Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:19:31.458Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:22:58.562Z","userId":"683cb5bae36d1ebfd7cfe299"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:23:07.977Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:23:28.464Z"}
+{"level":"info","message":"Novo SIP submetido","timestamp":"2025-06-01T22:24:09.239Z","user":"683cb5bae36d1ebfd7cfe299"}
+{"itemId":"683cd3097a59ef28258bd922","level":"info","message":"SIP ingerido com sucesso","timestamp":"2025-06-01T22:24:09.417Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:24:11.989Z","userId":"683cb5bae36d1ebfd7cfe299"}
+{"itemId":"683cd3097a59ef28258bd922","level":"info","message":"Visualização de item","timestamp":"2025-06-01T22:24:17.176Z"}
+{"itemId":"683cd3097a59ef28258bd922","level":"info","message":"Item atualizado","timestamp":"2025-06-01T22:24:24.495Z"}
+{"itemId":"683cd3097a59ef28258bd922","level":"info","message":"Item atualizado","timestamp":"2025-06-01T22:24:24.495Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:24:26.043Z","userId":"683cb5bae36d1ebfd7cfe299"}
+{"level":"info","message":"Estatísticas calculadas para utilizador","timestamp":"2025-06-01T22:24:31.534Z","userId":"683cb5bae36d1ebfd7cfe299"}
+{"level":"info","message":"Consulta de estatísticas do utilizador","timestamp":"2025-06-01T22:24:31.534Z","userId":"683cb5bae36d1ebfd7cfe299"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:24:41.608Z"}
+{"itemId":"683cd3097a59ef28258bd922","level":"info","message":"Visualização de item","timestamp":"2025-06-01T22:24:54.591Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:25:01.975Z"}
+{"commentId":"683cd3457a59ef28258bd93a","itemId":"683cd3097a59ef28258bd922","level":"info","message":"Comentário criado","timestamp":"2025-06-01T22:25:09.686Z"}
+{"commentId":"683cd3457a59ef28258bd93a","itemId":"683cd3097a59ef28258bd922","level":"info","message":"Comentário criado","timestamp":"2025-06-01T22:25:09.686Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:25:10.975Z"}
+{"email":"maileeeee@mail.com","level":"info","message":"Utilizador registado e logado com sucesso","timestamp":"2025-06-01T22:25:41.703Z","username":"gabri2"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:25:41.731Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Novo SIP submetido","timestamp":"2025-06-01T22:26:02.695Z","user":"683cd3657a59ef28258bd93f"}
+{"itemId":"683cd37a7a59ef28258bd946","level":"info","message":"SIP ingerido com sucesso","timestamp":"2025-06-01T22:26:02.773Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:26:04.422Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:26:16.167Z"}
+{"itemId":"683cd3097a59ef28258bd922","level":"info","message":"Visualização de item","timestamp":"2025-06-01T22:26:21.386Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:26:40.076Z"}
+{"commentId":"683cd3a77a59ef28258bd95a","itemId":"683cd3097a59ef28258bd922","level":"info","message":"Comentário criado","timestamp":"2025-06-01T22:26:47.569Z"}
+{"commentId":"683cd3a77a59ef28258bd95a","itemId":"683cd3097a59ef28258bd922","level":"info","message":"Comentário criado","timestamp":"2025-06-01T22:26:47.569Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:26:51.406Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:37:29.460Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:37:37.218Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:37:42.511Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:39:47.553Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:39:49.214Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:40:06.533Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:40:15.741Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:41:51.311Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:41:53.061Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:41:55.046Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:42:40.351Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:44:06.785Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:44:23.392Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:44:25.022Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:44:40.177Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:45:28.938Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:45:31.784Z"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:45:41.650Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:45:46.891Z","userId":"683cd3657a59ef28258bd93f"}
+{"email":"testuser.postmann@example.com","level":"info","message":"Utilizador registado e logado com sucesso","timestamp":"2025-06-01T22:47:39.726Z","username":"testuser_postmann"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:47:50.817Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:48:52.687Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:48:55.536Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:49:02.515Z","userId":"683cd3657a59ef28258bd93f"}
+{"level":"info","message":"Consulta de items públicos","timestamp":"2025-06-01T22:49:08.310Z"}
+{"level":"info","message":"Items consultados para utilizador","timestamp":"2025-06-01T22:49:11.245Z","userId":"683cd3657a59ef28258bd93f"}

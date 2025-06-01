@@ -1,0 +1,23 @@
+{
+  "titulo": "Primeiro Item",
+  "descricao": "dasda",
+  "dataCriacao": "2025-06-01T21:17:12.629Z",
+  "dataSubmissao": "2025-06-01T21:17:12.629Z",
+  "tipoRecurso": "Gastronomia",
+  "classificadores": [
+    "qqcoisa"
+  ],
+  "visibilidade": false,
+  "produtor": "683c871724a95c5b15d0d35a",
+  "submissor": "683c871724a95c5b15d0d35a",
+  "componentes": {
+    "texto": "",
+    "ficheiros": []
+  },
+  "destino": "",
+  "restaurante": "",
+  "prato": "",
+  "categoria": "",
+  "evento": "",
+  "local": ""
+}

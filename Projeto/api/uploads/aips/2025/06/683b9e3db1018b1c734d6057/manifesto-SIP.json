@@ -1,0 +1,26 @@
+{
+  "titulo": "Primeiro Item",
+  "descricao": "Portfolio",
+  "dataCriacao": "2025-06-01T00:26:37.261Z",
+  "dataSubmissao": "2025-06-01T00:26:37.262Z",
+  "tipoRecurso": "Journaling",
+  "classificadores": [
+    "coisas minhas"
+  ],
+  "visibilidade": false,
+  "produtor": "683b9dddb1018b1c734d6052",
+  "submissor": "683b9dddb1018b1c734d6052",
+  "componentes": {
+    "texto": "NSEI BEM AINDA",
+    "ficheiros": [
+      "teste1.jpg",
+      "teste2.jpg"
+    ]
+  },
+  "destino": "",
+  "restaurante": "",
+  "prato": "",
+  "categoria": "",
+  "evento": "",
+  "local": ""
+}

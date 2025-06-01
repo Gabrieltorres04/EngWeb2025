@@ -1,0 +1,24 @@
+{
+  "titulo": "Compras continente",
+  "descricao": "comida",
+  "dataCriacao": "2025-05-31T23:45:23.462Z",
+  "dataSubmissao": "2025-05-31T23:45:23.462Z",
+  "tipoRecurso": "Despesas",
+  "classificadores": [
+    "despesas"
+  ],
+  "visibilidade": false,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "compras da semana no intermache",
+    "ficheiros": []
+  },
+  "destino": "",
+  "restaurante": "",
+  "prato": "",
+  "valor": 150,
+  "categoria": "comida",
+  "evento": "",
+  "local": ""
+}

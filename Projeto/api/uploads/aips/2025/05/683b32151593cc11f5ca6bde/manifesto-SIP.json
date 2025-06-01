@@ -1,0 +1,26 @@
+{
+  "titulo": "foto",
+  "descricao": "foto",
+  "dataCriacao": "2025-05-31T16:45:09.578Z",
+  "dataSubmissao": "2025-05-31T16:45:09.579Z",
+  "tipoRecurso": "Journaling",
+  "classificadores": [
+    "foto",
+    "album"
+  ],
+  "visibilidade": false,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "miu",
+    "ficheiros": [
+      "speedy.png"
+    ]
+  },
+  "destino": "",
+  "restaurante": "",
+  "prato": "",
+  "categoria": "",
+  "evento": "",
+  "local": ""
+}

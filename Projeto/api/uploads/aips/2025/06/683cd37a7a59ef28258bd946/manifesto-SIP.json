@@ -1,0 +1,23 @@
+{
+  "titulo": "tit",
+  "descricao": "sdfvsd",
+  "dataCriacao": "2025-06-01T22:26:02.628Z",
+  "dataSubmissao": "2025-06-01T22:26:02.628Z",
+  "tipoRecurso": "Gastronomia",
+  "classificadores": [
+    "dsv"
+  ],
+  "visibilidade": false,
+  "produtor": "683cd3657a59ef28258bd93f",
+  "submissor": "683cd3657a59ef28258bd93f",
+  "componentes": {
+    "texto": "afaf",
+    "ficheiros": []
+  },
+  "destino": "",
+  "restaurante": "af",
+  "prato": "afafaf",
+  "categoria": "",
+  "evento": "",
+  "local": ""
+}

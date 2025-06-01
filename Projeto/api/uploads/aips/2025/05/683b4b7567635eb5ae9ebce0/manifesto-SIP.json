@@ -1,0 +1,30 @@
+{
+  "titulo": "teste",
+  "descricao": "teste",
+  "dataCriacao": "2025-05-31T18:33:25.867Z",
+  "dataSubmissao": "2025-05-31T18:33:25.867Z",
+  "tipoRecurso": "Despesas",
+  "classificadores": [
+    "comida",
+    "compras"
+  ],
+  "visibilidade": false,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "intermache",
+    "ficheiros": [
+      "road-runner.png",
+      "speedy.png",
+      "sylvester.png",
+      "tasmanian-devil.jpg"
+    ]
+  },
+  "destino": "",
+  "restaurante": "",
+  "prato": "",
+  "valor": 200,
+  "categoria": "Comida",
+  "evento": "",
+  "local": ""
+}

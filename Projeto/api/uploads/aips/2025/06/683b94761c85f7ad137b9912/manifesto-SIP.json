@@ -1,0 +1,24 @@
+{
+  "titulo": "Compras worten",
+  "descricao": "black friday",
+  "dataCriacao": "2025-05-31T23:44:54.257Z",
+  "dataSubmissao": "2025-05-31T23:44:54.257Z",
+  "tipoRecurso": "Despesas",
+  "classificadores": [
+    "compras"
+  ],
+  "visibilidade": false,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "ps5",
+    "ficheiros": []
+  },
+  "destino": "",
+  "restaurante": "",
+  "prato": "",
+  "valor": 500,
+  "categoria": "Gaming",
+  "evento": "",
+  "local": ""
+}

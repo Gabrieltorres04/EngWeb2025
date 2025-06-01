@@ -1,0 +1,28 @@
+{
+  "titulo": "Concerto foda",
+  "descricao": "muito bala",
+  "dataCriacao": "2025-05-31T14:31:35.835Z",
+  "dataSubmissao": "2025-05-31T14:31:35.835Z",
+  "tipoRecurso": "Eventos",
+  "classificadores": [
+    "concerto",
+    "calor",
+    "fotos"
+  ],
+  "visibilidade": true,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "Adorei isto",
+    "fotos": [],
+    "ficheiros": [],
+    "checklist": [],
+    "hyperlinks": []
+  },
+  "destino": "",
+  "restaurante": "",
+  "prato": "",
+  "categoria": "",
+  "evento": "Travis scooter",
+  "local": "Meo Arena"
+}

@@ -1,0 +1,30 @@
+{
+  "titulo": "OLA",
+  "descricao": "TUDO BEM??",
+  "dataCriacao": "2025-05-29T22:30:31.037Z",
+  "dataSubmissao": "2025-05-29T22:30:31.037Z",
+  "tipoRecurso": "Viagens",
+  "classificadores": [
+    "cultura",
+    "natureza"
+  ],
+  "visibilidade": true,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "adorei Praga",
+    "fotos": [
+      "tasmanian-devil.jpg"
+    ],
+    "ficheiros": [],
+    "checklist": [],
+    "hyperlinks": []
+  },
+  "destino": "Praga",
+  "duracaoDias": 2,
+  "restaurante": "",
+  "prato": "",
+  "categoria": "",
+  "evento": "",
+  "local": ""
+}

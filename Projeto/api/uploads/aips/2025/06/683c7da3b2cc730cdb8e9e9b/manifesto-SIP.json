@@ -1,0 +1,24 @@
+{
+  "titulo": "fsaf",
+  "descricao": "foto",
+  "dataCriacao": "2025-06-01T16:19:47.549Z",
+  "dataSubmissao": "2025-06-01T16:19:47.549Z",
+  "tipoRecurso": "Viagens",
+  "classificadores": [
+    "ola"
+  ],
+  "visibilidade": false,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "",
+    "ficheiros": []
+  },
+  "destino": "",
+  "duracaoDias": 0,
+  "restaurante": "",
+  "prato": "",
+  "categoria": "",
+  "evento": "",
+  "local": ""
+}

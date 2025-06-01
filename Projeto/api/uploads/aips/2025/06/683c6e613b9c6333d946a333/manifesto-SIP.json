@@ -1,0 +1,29 @@
+{
+  "titulo": "Férias",
+  "descricao": "Viagens ao estrangeiro",
+  "dataCriacao": "2025-06-01T15:14:41.635Z",
+  "dataSubmissao": "2025-06-01T15:14:41.636Z",
+  "tipoRecurso": "Despesas",
+  "classificadores": [
+    "hotel",
+    "despesas",
+    "viagem"
+  ],
+  "visibilidade": false,
+  "produtor": "68387d83ecb20e7714145efc",
+  "submissor": "68387d83ecb20e7714145efc",
+  "componentes": {
+    "texto": "hjhjsrhasr",
+    "ficheiros": [
+      "teste1.jpg",
+      "teste2.jpg"
+    ]
+  },
+  "destino": "",
+  "restaurante": "",
+  "prato": "",
+  "valor": 300,
+  "categoria": "Hotel",
+  "evento": "",
+  "local": ""
+}
